@@ -44,10 +44,12 @@ We will use [Canvas](canvas.pitt.edu) to let you submit your repository. You sho
 3. One and only one of you needs to submit a url to the repository page. If you joined a group correctly, one submission will count for all of you.
 4. We will look at the commit history and give credit to all group members who contributed. Additionally we will not give any credit if the repository only has one contributor.
 
-DESCRIPTION OF THE PROGRAM (PLS PATTON UPDATE IT)
+DESCRIPTION OF THE PROGRAM
 THE PROGRAM TAKES A USER'S NAME AND AGE AS INPUTS.
 THEN...
+IT FIGURES OUT HOW MANY COUNTRIES THE USER CAN LEGALLY PURCHASE ALCOHOL IN.
+THEN WE TAKE A DRINK IN EACH COUNTRY, AND OF COURSE WE NEED TO SING A SONG FOR THE ROAD TRIP.
 MADE BY:
 
 ARB630 - ARSENII BOBOVNIKOV
-PATTON, PUT YOUR CREDENTIALS HERE
+PAJ90 - PATTON JOHNSON
